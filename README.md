@@ -1,3 +1,3 @@
 # Kodluyoruz CSS Ödev3 - Google Clone
-## HTML
+## View
 ![google-clone](img/screenshot/google-clone-screenshot.png)
